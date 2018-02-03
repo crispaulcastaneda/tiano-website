@@ -5,3 +5,6 @@
 
 # Website Design 
 # Web Development
+
+Using github as my Host
+See the template live: https://cristiancronus.github.io/tiano-website/
