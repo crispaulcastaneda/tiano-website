@@ -1,10 +1,19 @@
 # tiano-website
 
-# A well design Website using 
-# HTML, CSS3, JavaScript - jQuery, Bootstrap, and other plugins.
-
-# Website Design 
-# Web Development
+## A well design Website using 
+```
+Technologies
+```
+* HTML 
+* CSS3 
+* JavaScript 
+* jQuery
+* Bootstrap
 
 Using github as my Host
-See the template live: https://cristiancronus.github.io/tiano-website/
+See the template live: https://crispaulcastaneda.github.io/tiano-website/
+Website
+```
+Link
+````
+https://crispaulcastaneda.github.io/cristian-castaneda/
