@@ -13,7 +13,3 @@ Technologies
 Using github as my Host
 See the template live: [https://crispaulcastaneda.github.io/tiano-website/](https://project4.clientbeta.tech/)
 Website
-```
-Link
-````
-https://crispaulcastaneda.github.io/cristian-castaneda/
